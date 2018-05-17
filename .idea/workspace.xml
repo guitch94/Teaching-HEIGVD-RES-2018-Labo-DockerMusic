@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ccbc7eb-1ccf-4f0e-8939-53590b24282b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/docker/image-auditor/src/auditor.js" afterPath="$PROJECT_DIR$/docker/image-auditor/src/auditor.js" />
+      <change beforePath="$PROJECT_DIR$/docker/image-musician/src/musician.js" afterPath="$PROJECT_DIR$/docker/image-musician/src/musician.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,27 +14,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="auditor.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="auditor.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker/image-auditor/src/auditor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="35" column="3" lean-forward="false" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+            <state relative-caret-position="496">
+              <caret line="85" column="67" lean-forward="false" selection-start-line="85" selection-start-column="67" selection-end-line="85" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="musician.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="musician.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker/image-musician/src/musician.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-58">
-              <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="517">
+              <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bind</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -411,18 +417,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/image-musician/src/musician.js">
+    <entry file="file://$PROJECT_DIR$/docker/image-auditor/src/auditor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="496">
+          <caret line="85" column="67" lean-forward="false" selection-start-line="85" selection-start-column="67" selection-end-line="85" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/image-auditor/src/auditor.js">
+    <entry file="file://$PROJECT_DIR$/docker/image-musician/src/musician.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="35" column="3" lean-forward="false" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        <state relative-caret-position="517">
+          <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
           <folding />
         </state>
       </provider>
