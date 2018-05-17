@@ -1,0 +1,19 @@
+{
+  "name": "musicianjson",
+  "version": "1.0.0",
+  "description": "json du musician",
+  "main": "musician.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guitch94/Teaching-HEIGVD-RES-2018-Labo-DockerMusic.git"
+  },
+  "author": "Guillaume Blanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guitch94/Teaching-HEIGVD-RES-2018-Labo-DockerMusic/issues"
+  },
+  "homepage": "https://github.com/guitch94/Teaching-HEIGVD-RES-2018-Labo-DockerMusic#readme"
+}

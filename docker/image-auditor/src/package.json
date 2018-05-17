@@ -1,0 +1,25 @@
+{
+  "name": "auditorjson",
+  "version": "1.0.0",
+  "description": "json du auditor",
+  "main": "auditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guitch94/Teaching-HEIGVD-RES-2018-Labo-DockerMusic.git"
+  },
+  "author": "Guillaume Blanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guitch94/Teaching-HEIGVD-RES-2018-Labo-DockerMusic/issues"
+  },
+  "homepage": "https://github.com/guitch94/Teaching-HEIGVD-RES-2018-Labo-DockerMusic#readme",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "moment": "^2.22.1",
+    "net": "^1.0.2",
+    "uuid": "^3.2.1"
+  }
+}
