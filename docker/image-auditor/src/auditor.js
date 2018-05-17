@@ -46,12 +46,12 @@ netTcp.on('connection', function(msg){
 
        musicianArray.forEach(musician => {
 
-            var i = musicianArray.indexOf(musician);
+            var index = musicianArray.indexOf(musician);
 
             // if the musician didn't play for a time, we remove it
             if(moment(new Date()).diff(musician[i].activeSince) > TIME){
-                console.log('This musician is not here for too long\n' + JSON.stringify(musicianArray[i],null,'\t'));
-                musicianArray.splice(i, 1);
+                console.log('This musician is not here for too long\n' + JSON.stringify(musicianArray[index],null,'\t'));
+                musicianArray.splice(index, 1);
             }
         })
 
