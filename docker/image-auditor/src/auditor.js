@@ -35,7 +35,7 @@ dgramSocket.on('message',	function(msg)	{
     }
 });
 
-
+var moment = require('moment');
 
 
 var netTcp = net.createServer();
@@ -54,7 +54,7 @@ netTcp.on('connection', function(msg){
         })
 
 
-    msg.write(JSON.stringify(musicians,null,'\t') + "\n");
+    msg.write(JSON.stringify(musicianArray,null,'\t') + "\n");
     msg.end();
 
 });
